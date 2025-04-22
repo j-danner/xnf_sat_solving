@@ -1,0 +1,9 @@
+[submodule "2-Xornado"]
+	path = 2-Xornado
+	url = https://github.com/j-danner/2-Xornado.git
+[submodule "Xorricane"]
+	path = Xorricane
+	url = https://github.com/j-danner/Xorricane.git
+[submodule "anf_to_2xnf"]
+	path = anf_to_2xnf
+	url = https://github.com/Wrazlmumfp/anf_to_2xnf.git
