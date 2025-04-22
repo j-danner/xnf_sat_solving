@@ -1,7 +1,7 @@
 ## SAT Solving Using _XOR-OR-AND Normal Forms_ (XNFs)
 
 This repository contains source code for XNF-based SAT solvers as described in the PhD thesis:  
-  *J.Danner, *_SAT Solving Using XOR-OR-AND Normal Forms and Cryptographic Fault Attacks_*, Universität Passau, 2025.*
+> *J.Danner, *_SAT Solving Using XOR-OR-AND Normal Forms and Cryptographic Fault Attacks_*, Universität Passau, 2025.*
 
 ##### Tools / Solvers
 
