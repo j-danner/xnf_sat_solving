@@ -6,7 +6,7 @@ This repository contains source code for XNF-based SAT solvers as described in t
 ##### Tools / Solvers
 
 - **`QANFto2XNF` (Algorithm 3.3):**  
-  A conversion algorithm from ANF to 2-XNF, implemented in [`anf_to_2xnf`](anf_to_2xnf) by _B. Andraschko_.
+  A conversion algorithm from ANF to 2-XNF, implemented in `anf_to_2xnf` by _B. Andraschko_.
 
 - **`CDXCL-lite` (Algorithm 4.6):**  
   A conflict-driven XNF SAT solver, implemented in the submodule `Xorricane` by _J. Danner_.
