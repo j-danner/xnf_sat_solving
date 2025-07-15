@@ -22,4 +22,4 @@ All random and cryptogrpahic benchmark suites of Chapter 6 are available under t
 
 ###### Setup
 
-Run `git submodule update --init` to clone all submodules. Instructions to run and build the tools and solvers can be found in their respective submodules.
+Run `git submodule update --init --recursive` to clone all submodules. Instructions to run and build the tools and solvers can be found in their respective submodules.
